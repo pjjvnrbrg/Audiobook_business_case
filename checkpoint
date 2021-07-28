@@ -1,0 +1,2 @@
+model_checkpoint_path: "12x4_model_trained"
+all_model_checkpoint_paths: "12x4_model_trained"
